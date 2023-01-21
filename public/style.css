@@ -1,8 +1,8 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: #d5d6d9;
+	background-color: #7f7e8b;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -29,4 +29,9 @@ code {
 
 a {
 	color: #2574A9;
+}
+code {
+background: transparent;
+
+  
 }
